@@ -1,5 +1,6 @@
 {
-"Name": "testfile",
-"Value": "This is a test"
+"Key": "testfile",
+"Value": "This is a test",
+"Tag": "new-json-tag"
 }
 
