@@ -1,4 +1,5 @@
 {
     "Name":"testfile",
+    "Key": "testfile",
     "Vale":"This is Test"
 }
